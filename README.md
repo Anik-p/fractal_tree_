@@ -12,4 +12,4 @@
 2. Скачайте репозиторий и запустите скрипт `fractal_tree`:  
    ```bash
    
-   [git clone https://github.com/Anik-p/fractal_tree_](https://github.com/Anik-p/fractal_tree_.git)
+   https://github.com/Anik-p/fractal_tree_.git
