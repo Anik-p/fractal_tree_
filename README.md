@@ -9,7 +9,7 @@
 ## Как запустить
 
 1. Убедитесь, что установлен **Python 3.6+**.  
-2. Скачайте репозиторий:  
+2. Скачайте репозиторий и запустите скрипт `fractal_tree`:  
    ```bash
    
-   git clone https://github.com/Anik-p/fractal_tree_
+   [git clone https://github.com/Anik-p/fractal_tree_](https://github.com/Anik-p/fractal_tree_.git)
