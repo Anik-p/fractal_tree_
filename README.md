@@ -12,4 +12,4 @@
 2. Скачайте репозиторий и запустите скрипт:  
    ```bash
    
-   python fractal_tree.py
+   fractal_tree.py
